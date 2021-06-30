@@ -1,0 +1,13 @@
+#!/usr/bin/make -f
+export DEB_BUILD_MAINT_OPTIONS = hardening=+all
+
+
+%:
+	dh $@
+
+build-arch:
+	if dpkg-architecture --is any-amd64; then \
+		$(MAKE) SIMD=select $(dpkg-buildflags --export=cmdline); \
+	else \
+		$(MAKE) SIMD=none $(dpkg-buildflags --export=cmdline); \
+	fi

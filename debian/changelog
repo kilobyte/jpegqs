@@ -1,0 +1,5 @@
+jpegqs (1.20210408-1) unstable; urgency=medium
+
+  * Initial release (Closes: #989697)
+
+ -- Adam Borowski <kilobyte@angband.pl>  Wed, 30 Jun 2021 17:59:52 +0200
