@@ -6,6 +6,12 @@ Files: *
 Copyright: 2016-2021 Ilya Kurdyukov
 License: LGPL-2.1+
 
+Files: idct.h
+Copyright:
+	2016-2020 Ilya Kurdyukov
+	1991-1998, Thomas G. Lane
+License: LGPL-2.1+
+
 Files: debian/*
 Copyright: 2021 Adam Borowski <kilobyte@angband.pl>
 License: LGPL-2.1+
