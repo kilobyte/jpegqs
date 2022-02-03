@@ -8,8 +8,8 @@ License: LGPL-2.1+
 
 Files: idct.h
 Copyright:
-	2016-2020 Ilya Kurdyukov
-	1991-1998, Thomas G. Lane
+ 	2016-2020 Ilya Kurdyukov
+ 	1991-1998, Thomas G. Lane
 License: LGPL-2.1+
 
 Files: debian/*

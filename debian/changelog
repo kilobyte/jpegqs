@@ -1,3 +1,9 @@
+jpegqs (1.20210408-3) UNRELEASED; urgency=medium
+
+  * debian/copyright: use spaces rather than tabs to start continuation lines.
+
+ -- Debian Janitor <janitor@jelmer.uk>  Thu, 03 Feb 2022 10:26:34 -0000
+
 jpegqs (1.20210408-2) unstable; urgency=medium
 
   [ Helmut Grohne ]
