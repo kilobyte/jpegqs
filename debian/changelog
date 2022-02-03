@@ -4,6 +4,7 @@ jpegqs (1.20210408-3) UNRELEASED; urgency=medium
   * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository,
     Repository-Browse.
   * Use canonical URL in Vcs-Git.
+  * Update standards version to 4.6.0, no changes needed.
 
  -- Debian Janitor <janitor@jelmer.uk>  Thu, 03 Feb 2022 10:26:34 -0000
 
