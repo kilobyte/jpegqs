@@ -3,10 +3,10 @@ Section: graphics
 Priority: optional
 Maintainer: Adam Borowski <kilobyte@angband.pl>
 Build-Depends: debhelper-compat (= 13), libjpeg-dev
-Standards-Version: 4.5.1
+Standards-Version: 4.6.0
 Homepage: https://github.com/ilyakurdyukov/jpeg-quantsmooth/
 Vcs-Browser: https://github.com/kilobyte/jpegqs
-Vcs-Git: https://github.com/kilobyte/jpegqs
+Vcs-Git: https://github.com/kilobyte/jpegqs.git
 Rules-Requires-Root: no
 
 Package: jpegqs
