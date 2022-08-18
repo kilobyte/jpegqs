@@ -1,3 +1,10 @@
+jpegqs (1.20210408-3) unstable; urgency=medium
+
+  * Fix a divide by zero on corrupted images (closes: #1017608,
+    CVE-2022-35434).
+
+ -- Adam Borowski <kilobyte@angband.pl>  Thu, 18 Aug 2022 14:23:00 +0200
+
 jpegqs (1.20210408-2) unstable; urgency=medium
 
   [ Helmut Grohne ]
